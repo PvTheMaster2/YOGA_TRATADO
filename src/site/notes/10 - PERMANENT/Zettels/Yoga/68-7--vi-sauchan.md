@@ -1,4 +1,8 @@
 ---
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/68-7-vi-sauchan/","title":"68.7 – VI. Sauchan","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
+---
+
+---
 dg-publish: true
 id: 20250418T020213
 title: 68.7 – VI. Sauchan
