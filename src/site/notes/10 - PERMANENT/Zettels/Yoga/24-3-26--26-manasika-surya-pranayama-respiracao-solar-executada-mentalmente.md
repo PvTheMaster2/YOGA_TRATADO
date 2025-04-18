@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 24.3.26 – 26 – Manasika súrya pránáyáma – respiração solar executada mentalmente
 tags:
@@ -9,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Tipos de Pránáyáma
 grandparent: Pránáyáma
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 24.3.26 – 26 – Manasika súrya pránáyáma – respiração solar executada mentalmente

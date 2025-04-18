@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 24.5 – Modelo de Locução para o Seu Treinamento
 tags:
@@ -8,8 +9,7 @@ zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Pránáyáma
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 24.5 – Modelo de Locução para o Seu Treinamento

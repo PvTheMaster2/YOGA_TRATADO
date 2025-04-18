@@ -1,15 +1,7 @@
 ---
-id: 20250418T020213
-title: 3 – O que é o DeRose Method
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-updated: 2025-04-18T03:26
-dg-publish: true
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/3-o-que-e-o-derose-method/","title":"3 – O que é o DeRose Method","tags":["source/trato-yoga","type/concept"]}
 ---
+
 
 # 3 – O que é o DeRose Method
 

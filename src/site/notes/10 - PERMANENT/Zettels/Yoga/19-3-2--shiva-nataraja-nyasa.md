@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 19.3.2 – SHIVA NATARÁJA NYÁSA
 tags:
@@ -9,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: NYÁSA
 grandparent: Recursos Suplementares
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 19.3.2 – SHIVA NATARÁJA NYÁSA

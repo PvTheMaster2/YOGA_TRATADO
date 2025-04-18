@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 33.6.2 – II. Mantra dhyāna
 tags:
@@ -9,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Os três graus de meditação
 grandparent: Samyama
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 33.6.2 – II. Mantra dhyāna

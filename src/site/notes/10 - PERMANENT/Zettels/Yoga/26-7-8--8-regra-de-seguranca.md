@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 26.7.8 – 8. Regra de Segurança
 tags:
@@ -9,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Detalhamento das Regras
 grandparent: Ásana
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 26.7.8 – 8. Regra de Segurança

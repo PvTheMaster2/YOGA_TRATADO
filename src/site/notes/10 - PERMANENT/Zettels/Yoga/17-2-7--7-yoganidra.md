@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 17.2.7 – 7) yôganidrá
 tags:
@@ -10,8 +11,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: II − Ashtánga Sádhana
 grandparent: Estrutura do Programa de Prática
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 17.2.7 – 7) yôganidrá

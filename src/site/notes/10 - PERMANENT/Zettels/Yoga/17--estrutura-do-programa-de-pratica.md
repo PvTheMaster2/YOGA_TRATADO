@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 17 – Estrutura do Programa de Prática
 tags:
@@ -7,8 +8,7 @@ tags:
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 17 – Estrutura do Programa de Prática

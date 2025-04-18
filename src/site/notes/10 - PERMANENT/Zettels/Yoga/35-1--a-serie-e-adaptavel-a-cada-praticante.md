@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 35.1 – A Série é Adaptável a Cada Praticante
 tags:
@@ -8,8 +9,7 @@ zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Apologia à Série Protótipo
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 35.1 – A Série é Adaptável a Cada Praticante

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 33.2.1 – Meditação é parte do Yôga
 tags:
@@ -10,8 +11,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Quase ninguém sabe o que é meditação
 grandparent: Samyama
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-18T03:41
 ---
 
 # 33.2.1 – Meditação é parte do Yôga
