@@ -1,4 +1,8 @@
 ---
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/68-6-v-aparigraha/","title":"68.6 – V. Aparigraha","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
+---
+
+---
 dg-publish: true
 id: 20250418T020213
 title: 68.6 – V. Aparigraha
