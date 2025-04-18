@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/1-definicoes/"}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/1-definicoes/","noteIcon":""}
 ---
 
 
