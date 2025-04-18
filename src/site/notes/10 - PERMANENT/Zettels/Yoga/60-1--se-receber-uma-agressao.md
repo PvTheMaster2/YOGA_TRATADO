@@ -1,17 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 60.1 – Se Receber uma Agressão
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Programação para o Sucesso
-updated: 2025-04-18T03:26
-dg-publish: true
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/60-1-se-receber-uma-agressao/","title":"60.1 – Se Receber uma Agressão","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 60.1 – Se Receber uma Agressão
 

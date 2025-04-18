@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 24.3.36 – 36 – Kapálabhátí – respiração do sopro lento
 tags:

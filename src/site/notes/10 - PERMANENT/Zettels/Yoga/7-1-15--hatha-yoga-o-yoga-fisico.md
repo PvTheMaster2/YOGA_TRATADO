@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.15 – Hatha Yôga, o Yôga físico
 tags:

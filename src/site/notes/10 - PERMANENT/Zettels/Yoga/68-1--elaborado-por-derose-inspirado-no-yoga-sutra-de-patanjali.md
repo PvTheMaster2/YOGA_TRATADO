@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 68.1 – Elaborado por DeRose, inspirado no Yôga Sútra de Pátañjali
 tags:

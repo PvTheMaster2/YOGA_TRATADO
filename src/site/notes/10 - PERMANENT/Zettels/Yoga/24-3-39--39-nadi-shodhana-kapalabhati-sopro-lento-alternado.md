@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 24.3.39 – 39 – Nádí shôdhana kapálabhátí – sopro lento alternado
 tags:

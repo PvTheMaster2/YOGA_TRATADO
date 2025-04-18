@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 58.9 – Transmissão do Mahā Kripá
 tags:

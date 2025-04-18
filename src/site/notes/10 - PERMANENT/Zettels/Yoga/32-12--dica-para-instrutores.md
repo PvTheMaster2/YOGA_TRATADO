@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 32.12 – Dica para Instrutores
 tags:

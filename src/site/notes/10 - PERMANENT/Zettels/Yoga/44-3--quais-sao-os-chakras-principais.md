@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 44.3 – Quais São os Chakras Principais
 tags:

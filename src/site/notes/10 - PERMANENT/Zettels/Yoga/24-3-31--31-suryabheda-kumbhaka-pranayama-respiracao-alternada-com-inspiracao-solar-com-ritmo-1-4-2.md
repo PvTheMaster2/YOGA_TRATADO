@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 24.3.31 – 31 – Súryabhêda kumbhaka pránáyáma – respiração alternada com inspiração solar, com ritmo (1-4-2)
 tags:

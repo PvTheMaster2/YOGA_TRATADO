@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 23.12.4 – História da Medalha com o *ÔM*
 tags:

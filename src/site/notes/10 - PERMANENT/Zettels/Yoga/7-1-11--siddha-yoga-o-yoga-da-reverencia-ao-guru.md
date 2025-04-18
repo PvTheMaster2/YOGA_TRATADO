@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.11 – Siddha Yôga, o Yôga da reverência ao guru
 tags:

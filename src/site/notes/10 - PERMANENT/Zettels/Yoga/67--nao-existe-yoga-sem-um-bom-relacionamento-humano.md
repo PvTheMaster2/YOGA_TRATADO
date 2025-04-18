@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 67 – Não Existe Yôga sem um Bom Relacionamento Humano
 tags:

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.3 – Karma Yôga, o Yôga da ação
 tags:

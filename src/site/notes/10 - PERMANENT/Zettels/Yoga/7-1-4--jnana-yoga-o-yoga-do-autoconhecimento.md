@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.4 – Jñána Yôga, o Yôga do autoconhecimento
 tags:

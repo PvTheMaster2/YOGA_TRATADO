@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 23.2 – Para quê praticar mantra
 tags:

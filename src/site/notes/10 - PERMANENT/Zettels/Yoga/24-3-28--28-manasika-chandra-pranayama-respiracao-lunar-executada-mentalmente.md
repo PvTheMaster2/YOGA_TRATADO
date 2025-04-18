@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 24.3.28 – 28 – Manasika chandra pránáyáma – respiração lunar executada mentalmente
 tags:

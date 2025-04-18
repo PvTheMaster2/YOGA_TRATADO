@@ -1,16 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 62.2 – Solução Proposta
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: A Síndrome da Felicidade
-updated: 2025-04-18T03:41
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/62-2-solucao-proposta/","title":"62.2 – Solução Proposta","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 62.2 – Solução Proposta
 

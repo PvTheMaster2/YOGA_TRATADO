@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.14 – Yôga Clássico, um Yôga árido e duro, com restrições sexuais e outras
 tags:

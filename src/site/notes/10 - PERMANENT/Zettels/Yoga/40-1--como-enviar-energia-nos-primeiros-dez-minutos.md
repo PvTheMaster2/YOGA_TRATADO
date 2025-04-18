@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 40.1 – Como Enviar Energia nos Primeiros Dez Minutos
 tags:

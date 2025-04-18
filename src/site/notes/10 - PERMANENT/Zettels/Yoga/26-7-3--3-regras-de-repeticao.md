@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 26.7.3 – 3. Regras de Repetição
 tags:

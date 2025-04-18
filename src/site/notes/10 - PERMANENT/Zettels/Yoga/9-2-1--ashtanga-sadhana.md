@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 9.2.1 – Ashtánga Sádhana
 tags:

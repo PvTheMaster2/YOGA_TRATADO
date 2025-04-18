@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 33.12 – Exercícios de *pratyāhāra (abstração dos sentidos externos)*
 tags:

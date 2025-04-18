@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 69 – Outros Livros do Mesmo Autor para Leituras Subsequentes
 tags:

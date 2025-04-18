@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.9 – Suddha Rája Yôga, uma variedade de Rája Yôga medieval
 tags:

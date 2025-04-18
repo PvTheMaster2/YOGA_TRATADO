@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 26.7.1 – 1. Regras de Respiração Coordenada
 tags:

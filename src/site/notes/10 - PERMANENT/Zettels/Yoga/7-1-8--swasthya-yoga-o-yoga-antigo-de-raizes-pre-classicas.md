@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.8 – SwáSthya Yôga, o Yôga Antigo, de raízes pré-clássicas
 tags:

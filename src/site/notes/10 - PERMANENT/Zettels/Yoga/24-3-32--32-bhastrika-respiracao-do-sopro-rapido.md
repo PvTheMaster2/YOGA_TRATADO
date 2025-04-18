@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 24.3.32 – 32 – Bhastriká – respiração do sopro rápido
 tags:

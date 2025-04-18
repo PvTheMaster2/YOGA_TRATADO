@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.13 – Yôga Integral, o Yôga de integração nas atividades do dia-a-dia
 tags:

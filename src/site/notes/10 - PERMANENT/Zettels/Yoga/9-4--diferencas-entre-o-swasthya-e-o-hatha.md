@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 9.4 – Diferenças entre o SwáSthya e o Hatha
 tags:

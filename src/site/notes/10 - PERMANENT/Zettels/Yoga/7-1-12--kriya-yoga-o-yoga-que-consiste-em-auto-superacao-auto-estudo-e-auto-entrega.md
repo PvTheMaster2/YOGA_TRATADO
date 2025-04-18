@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 id: 20250418T020213
 title: 7.1.12 – Kriyá Yôga, o Yôga que consiste em auto-superação, auto-estudo e auto-entrega
 tags:
