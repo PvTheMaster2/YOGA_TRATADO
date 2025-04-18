@@ -1,17 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 68.10 – IX. Swádhyāya
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Código de Ética do Yôga
-updated: 2025-04-18T03:26
-dg-publish: true
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/68-10-ix-swadhyaya/","title":"68.10 – IX. Swádhyāya","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 68.10 – IX. Swádhyāya
 
