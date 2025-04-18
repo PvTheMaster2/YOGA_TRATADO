@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/6-arvore-do-yoga/","title":"6 – ARVORE DO YÔGA","tags":["source/trato-yoga","type/concept","theme/yoga"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/6-arvore-do-yoga/","title":"6 – ARVORE DO YÔGA","tags":["source/trato-yoga","type/concept","theme/yoga"],"noteIcon":""}
 ---
 
 

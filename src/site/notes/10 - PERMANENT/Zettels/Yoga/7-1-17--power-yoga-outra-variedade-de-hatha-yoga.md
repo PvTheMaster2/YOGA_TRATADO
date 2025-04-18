@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-1-17-power-yoga-outra-variedade-de-hatha-yoga/","title":"7.1.17 – Power Yôga, outra variedade de Hatha Yôga","tags":["source/trato-yoga","type/concept","theme/yoga"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-1-17-power-yoga-outra-variedade-de-hatha-yoga/","title":"7.1.17 – Power Yôga, outra variedade de Hatha Yôga","tags":["source/trato-yoga","type/concept","theme/yoga"],"noteIcon":""}
 ---
 
 

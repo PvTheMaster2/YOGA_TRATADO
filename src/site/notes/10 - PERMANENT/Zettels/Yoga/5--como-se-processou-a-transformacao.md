@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-como-se-processou-a-transformacao/","title":"5 – COMO SE PROCESSOU A TRANSFORMAÇÃO","tags":["source/trato-yoga","type/practice"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-como-se-processou-a-transformacao/","title":"5 – COMO SE PROCESSOU A TRANSFORMAÇÃO","tags":["source/trato-yoga","type/practice"],"noteIcon":""}
 ---
 
 

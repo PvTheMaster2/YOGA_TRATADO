@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-1-6-mantra-yoga-o-yoga-do-dominio-do-som-e-do-ultrassom/","title":"7.1.6 – Mantra Yôga, o Yôga do domínio do som e do ultrassom","tags":["source/trato-yoga","type/concept","theme/yoga"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-1-6-mantra-yoga-o-yoga-do-dominio-do-som-e-do-ultrassom/","title":"7.1.6 – Mantra Yôga, o Yôga do domínio do som e do ultrassom","tags":["source/trato-yoga","type/concept","theme/yoga"],"noteIcon":""}
 ---
 
 

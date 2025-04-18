@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-tipos-de-yoga/","title":"7 – TIPOS DE YÔGA","tags":["source/trato-yoga","type/concept","theme/yoga"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-tipos-de-yoga/","title":"7 – TIPOS DE YÔGA","tags":["source/trato-yoga","type/concept","theme/yoga"],"noteIcon":""}
 ---
 
 

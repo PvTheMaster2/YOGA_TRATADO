@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-1-tipos-de-yogin/","title":"5.1 – Tipos de Yôgin","tags":["source/trato-yoga","type/concept"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-1-tipos-de-yogin/","title":"5.1 – Tipos de Yôgin","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
 
 

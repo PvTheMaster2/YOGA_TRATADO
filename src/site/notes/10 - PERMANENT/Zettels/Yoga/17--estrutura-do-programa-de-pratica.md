@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/17-estrutura-do-programa-de-pratica/","title":"17 – Estrutura do Programa de Prática","tags":["source/trato-yoga","type/practice"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/17-estrutura-do-programa-de-pratica/","title":"17 – Estrutura do Programa de Prática","tags":["source/trato-yoga","type/practice"],"noteIcon":""}
 ---
 
 

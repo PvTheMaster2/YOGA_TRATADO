@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/4-cronologia-historica/","title":"4 – Cronologia Histórica","tags":["source/trato-yoga","type/concept"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/4-cronologia-historica/","title":"4 – Cronologia Histórica","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
 
 

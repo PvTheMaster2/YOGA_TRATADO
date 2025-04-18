@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-1-1-raja-yoga-o-yoga-mental/","title":"7.1.1 – Rája Yôga, o Yôga mental","tags":["source/trato-yoga","type/concept","theme/yoga"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-1-1-raja-yoga-o-yoga-mental/","title":"7.1.1 – Rája Yôga, o Yôga mental","tags":["source/trato-yoga","type/concept","theme/yoga"],"noteIcon":""}
 ---
 
 

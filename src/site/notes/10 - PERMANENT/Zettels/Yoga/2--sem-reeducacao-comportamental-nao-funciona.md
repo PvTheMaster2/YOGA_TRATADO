@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/2-sem-reeducacao-comportamental-nao-funciona/","title":"2 – Sem reeducação comportamental, não funciona","tags":["source/trato-yoga","type/concept"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/2-sem-reeducacao-comportamental-nao-funciona/","title":"2 – Sem reeducação comportamental, não funciona","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
 
 

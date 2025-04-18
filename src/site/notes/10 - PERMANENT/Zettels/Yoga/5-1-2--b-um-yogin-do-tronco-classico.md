@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-1-2-b-um-yogin-do-tronco-classico/","title":"5.1.2 – b) Um yôgin do tronco Clássico","tags":["source/trato-yoga","type/concept"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-1-2-b-um-yogin-do-tronco-classico/","title":"5.1.2 – b) Um yôgin do tronco Clássico","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
 
 

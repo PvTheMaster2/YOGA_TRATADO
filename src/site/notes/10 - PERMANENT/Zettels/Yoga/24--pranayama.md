@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/24-pranayama/","title":"24 – Pránáyáma","tags":["source/trato-yoga","type/concept"]}
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/24-pranayama/","title":"24 – Pránáyáma","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
 
 ---
