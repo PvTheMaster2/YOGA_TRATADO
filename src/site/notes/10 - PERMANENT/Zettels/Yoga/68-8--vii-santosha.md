@@ -1,4 +1,8 @@
 ---
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/68-8-vii-santosha/","title":"68.8 – VII. Santôsha","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
+---
+
+---
 dg-publish: true
 id: 20250418T020213
 title: 68.8 – VII. Santôsha
