@@ -1,17 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 5.1.2 – b) Um yôgin do tronco Clássico
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Tipos de Yôgin
-grandparent: COMO SE PROCESSOU A TRANSFORMAÇÃO
-updated: 2025-04-18T03:41
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-1-2-b-um-yogin-do-tronco-classico/","title":"5.1.2 – b) Um yôgin do tronco Clássico","tags":["source/trato-yoga","type/concept"]}
 ---
+
 
 # 5.1.2 – b) Um yôgin do tronco Clássico
 

@@ -1,18 +1,7 @@
 ---
-id: 20250418T020213
-title: 7.1.1 – Rája Yôga, o Yôga mental
-tags:
-  - source/trato-yoga
-  - type/concept
-  - theme/yoga
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Descrição de várias modalidades de Yôga
-grandparent: TIPOS DE YÔGA
-updated: 2025-04-18T03:26
-dg-publish: true
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/7-1-1-raja-yoga-o-yoga-mental/","title":"7.1.1 – Rája Yôga, o Yôga mental","tags":["source/trato-yoga","type/concept","theme/yoga"]}
 ---
+
 
 # 7.1.1 – Rája Yôga, o Yôga mental
 

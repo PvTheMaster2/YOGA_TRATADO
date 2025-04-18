@@ -1,15 +1,7 @@
 ---
-id: 20250418T020213
-title: 4 – Cronologia Histórica
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-updated: 2025-04-18T03:26
-dg-publish: true
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/4-cronologia-historica/","title":"4 – Cronologia Histórica","tags":["source/trato-yoga","type/concept"]}
 ---
+
 
 # 4 – Cronologia Histórica
 
