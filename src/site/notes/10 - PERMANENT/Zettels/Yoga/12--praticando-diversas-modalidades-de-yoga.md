@@ -1,4 +1,8 @@
 ---
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/12-praticando-diversas-modalidades-de-yoga/","title":"12 – Praticando Diversas Modalidades de Yôga","tags":["source/trato-yoga","type/concept","theme/yoga"]}
+---
+
+---
 dg-publish: true
 id: 20250418T020213
 title: 12 – Praticando Diversas Modalidades de Yôga
