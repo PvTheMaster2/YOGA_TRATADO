@@ -1,4 +1,8 @@
 ---
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/69-outros-livros-do-mesmo-autor-para-leituras-subsequentes/","title":"69 – Outros Livros do Mesmo Autor para Leituras Subsequentes","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
+---
+
+---
 dg-publish: true
 id: 20250418T020213
 title: 69 – Outros Livros do Mesmo Autor para Leituras Subsequentes
