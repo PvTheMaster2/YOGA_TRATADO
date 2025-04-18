@@ -1,15 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 5 – COMO SE PROCESSOU A TRANSFORMAÇÃO
-tags:
-  - source/trato-yoga
-  - type/practice
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-updated: 2025-04-18T03:41
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/5-como-se-processou-a-transformacao/","title":"5 – COMO SE PROCESSOU A TRANSFORMAÇÃO","tags":["source/trato-yoga","type/practice"]}
 ---
+
 
 # 5 – COMO SE PROCESSOU A TRANSFORMAÇÃO
 
