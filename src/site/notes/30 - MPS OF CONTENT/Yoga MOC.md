@@ -3,15 +3,6 @@
 ---
 
 
----
-id: YogaMOC
-title: "Mapa de Conteúdo: Trato de Yôga"
-tags:
-  - type/moc
-  - theme/yoga
-created: 2025-04-18
-updated: 2025-04-18T02:34
----
 
 # 🧘 Mapa de Conteúdo: Trato de Yôga
 
