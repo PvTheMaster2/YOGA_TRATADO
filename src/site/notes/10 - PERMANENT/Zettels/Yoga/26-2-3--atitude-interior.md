@@ -11,7 +11,6 @@ created: 2025-04-18
 parent: Componentes de Ásana
 grandparent: Ásana
 updated: 2025-04-18T03:26
-dg-publish: true
 ---
 
 # 26.2.3 – Atitude Interior

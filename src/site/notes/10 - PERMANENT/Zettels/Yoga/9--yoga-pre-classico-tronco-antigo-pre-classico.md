@@ -9,8 +9,7 @@ tags:
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-18T03:27
-dg-publish: true
+updated: 2025-04-21T16:46
 ---
 
 # 9 – Yôga Pré-Clássico, tronco antigo, Pré-Clássico

@@ -11,8 +11,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Descrição de várias modalidades de Yôga
 grandparent: TIPOS DE YÔGA
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:46
 ---
 
 # 7.1.16 – Iyengar Yôga, uma variedade de Hatha Yôga

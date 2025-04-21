@@ -1,18 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 23.12.4 – História da Medalha com o *ÔM*
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: ÔM
-grandparent: Mantra
-updated: 2025-04-18T03:26
-dg-publish: true
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/23-12-4-historia-da-medalha-com-o-om/","title":"23.12.4 – História da Medalha com o *ÔM*","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 23.12.4 – História da Medalha com o *ÔM*
 

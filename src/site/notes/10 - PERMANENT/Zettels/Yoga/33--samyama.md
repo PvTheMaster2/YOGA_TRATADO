@@ -8,8 +8,7 @@ tags:
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:51
 ---
 
 # 33 – Samyama

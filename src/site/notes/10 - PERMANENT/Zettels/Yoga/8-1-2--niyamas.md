@@ -10,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: O Yôga Clássico
 grandparent: O YÔGA CLÁSICO
-updated: 2025-04-18T03:27
-dg-publish: true
+updated: 2025-04-21T16:46
 ---
 
 # 8.1.2 – Niyamas

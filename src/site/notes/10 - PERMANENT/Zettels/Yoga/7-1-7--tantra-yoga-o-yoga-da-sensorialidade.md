@@ -11,8 +11,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Descrição de várias modalidades de Yôga
 grandparent: TIPOS DE YÔGA
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:45
 ---
 
 # 7.1.7 – Tantra Yôga, o Yôga da sensorialidade

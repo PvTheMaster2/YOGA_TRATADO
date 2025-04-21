@@ -10,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Tipos de Pránáyáma
 grandparent: Pránáyáma
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:49
 ---
 
 # 24.3.31 – 31 – Súryabhêda kumbhaka pránáyáma – respiração alternada com inspiração solar, com ritmo (1-4-2)

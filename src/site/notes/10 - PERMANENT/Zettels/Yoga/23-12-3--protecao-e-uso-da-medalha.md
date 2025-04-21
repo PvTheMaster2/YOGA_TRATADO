@@ -10,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: ÔM
 grandparent: Mantra
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:47
 ---
 
 # 23.12.3 – Proteção e Uso da Medalha

@@ -10,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Tipos de Pránáyáma
 grandparent: Pránáyáma
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:48
 ---
 
 # 24.3.28 – 28 – Manasika chandra pránáyáma – respiração lunar executada mentalmente

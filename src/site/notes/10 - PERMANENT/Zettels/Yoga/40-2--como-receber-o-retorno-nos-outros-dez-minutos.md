@@ -9,8 +9,7 @@ zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Corrente Macrocósmica
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:52
 ---
 
 # 40.2 – Como Receber o Retorno nos Outros Dez Minutos

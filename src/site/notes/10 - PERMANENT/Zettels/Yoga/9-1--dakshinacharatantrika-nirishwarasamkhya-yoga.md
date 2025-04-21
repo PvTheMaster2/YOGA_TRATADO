@@ -10,8 +10,7 @@ zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Yôga Pré-Clássico, tronco antigo, Pré-Clássico
-updated: 2025-04-18T03:27
-dg-publish: true
+updated: 2025-04-21T16:46
 ---
 
 # 9.1 – Dakshinacharatántrika-Niríshwarasámkhya Yôga

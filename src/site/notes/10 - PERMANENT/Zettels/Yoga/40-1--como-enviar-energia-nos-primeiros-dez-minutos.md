@@ -10,7 +10,6 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Corrente Macrocósmica
 updated: 2025-04-18T03:26
-dg-publish: true
 ---
 
 # 40.1 – Como Enviar Energia nos Primeiros Dez Minutos

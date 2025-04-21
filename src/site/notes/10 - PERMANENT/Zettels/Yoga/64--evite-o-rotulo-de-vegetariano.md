@@ -6,21 +6,9 @@ tags: source/trato-yoga,type/concept
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-18T03:41
+updated: 2025-04-21T16:54
 ---
----
-id: 20250418T020213
-title: 64 – EVITE O RÓTULO DE VEGETARIANO
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-updated: 2025-04-18T02:33
-dg-publish: true
 
----
 
 # 64 – EVITE O RÓTULO DE VEGETARIANO
 

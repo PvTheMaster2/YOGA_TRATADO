@@ -1,18 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 24.3.32 – 32 – Bhastriká – respiração do sopro rápido
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Tipos de Pránáyáma
-grandparent: Pránáyáma
-updated: 2025-04-18T03:26
-dg-publish: true
+{"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/24-3-32-32-bhastrika-respiracao-do-sopro-rapido/","title":"24.3.32 – 32 – Bhastriká – respiração do sopro rápido","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 24.3.32 – 32 – Bhastriká – respiração do sopro rápido
 

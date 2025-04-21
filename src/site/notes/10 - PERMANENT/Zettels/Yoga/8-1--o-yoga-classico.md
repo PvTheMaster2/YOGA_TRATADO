@@ -10,8 +10,7 @@ zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: O YÔGA CLÁSICO
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:46
 ---
 
 # 8.1 – O Yôga Clássico

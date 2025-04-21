@@ -10,8 +10,7 @@ source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Componentes de Ásana
 grandparent: Ásana
-updated: 2025-04-18T03:26
-dg-publish: true
+updated: 2025-04-21T16:50
 ---
 
 # 26.2.2 – Respiração Coordenada

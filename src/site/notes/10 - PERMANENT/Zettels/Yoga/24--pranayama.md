@@ -2,18 +2,6 @@
 {"dg-publish":true,"permalink":"/10-permanent/zettels/yoga/24-pranayama/","title":"24 – Pránáyáma","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
 
----
-dg-publish: true
-id: 20250418T020213
-title: 24 – Pránáyáma
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-updated: 2025-04-18T02:33
----
 
 # 24 – Pránáyáma
 
